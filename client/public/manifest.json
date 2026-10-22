@@ -1,0 +1,17 @@
+{
+  "short_name": "NIVARA",
+  "name": "NIVARA - Rural Healthcare Platform",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#f4f8fb",
+  "theme_color": "#2563eb",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "categories": ["medical", "health", "utilities"]
+}
